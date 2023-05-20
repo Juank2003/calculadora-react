@@ -1,2 +1,2 @@
 # calculadora-react
-# Mi repositorio:
+# Mi repositorio:https://github.com/Juank2003/calculadora-react.git
